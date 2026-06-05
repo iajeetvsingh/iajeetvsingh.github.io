@@ -3,9 +3,9 @@ title: "A review of marine algae as a sustainable source of antiviral and antica
 collection: publications
 category: manuscripts
 permalink: https://doi.org/10.3390/macromol5010011
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-03-05
 venue: 'Macromole, MDPI'
+paperurl: https://doi.org/10.3390/macromol5010011
 citation: 'Kumar, A., Soratur, A., Kumar, S., & Venmathi Maran, B. A. (2025). A Review of Marine Algae as a Sustainable Source of Antiviral and Anticancer Compounds. Macromol, 5(1), 11. https://doi.org/10.3390/macromol5010011'
 ---
 
