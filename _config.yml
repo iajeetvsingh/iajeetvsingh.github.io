@@ -24,7 +24,7 @@ repository : "iajeetvsingh/iajeetvsingh.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : "profile.jpg"
+  avatar           : "PROFILE PNG.png"
   name             : "Ajit Kumar"
   bio              : "PhD Scholar at AcSIR-CSMCRI | CSIR-JRF AIR 187 | Marine Natural Products"
   location         : "India"
