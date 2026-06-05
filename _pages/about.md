@@ -1,18 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
----
 
-permalink: /
-title: "About Me"
-author_profile: true
---------------------
 
 # AJIT KUMAR
 
@@ -23,17 +18,8 @@ CSIR–Central Salt & Marine Chemicals Research Institute (CSMCRI)
 
 **Research Interests:** Marine Natural Products • Seaweed Biotechnology • Marine Ecology • Environmental Toxicology • Marine Microbiology • Blue Biotechnology
 
----
 
-## Welcome
-
-I am a Junior Research Fellow (CSIR-JRF) and PhD Scholar at the Academy of Scientific and Innovative Research (AcSIR), conducting research at CSIR–Central Salt & Marine Chemicals Research Institute (CSMCRI), India.
-
-My research focuses on marine natural products and bioactive compounds derived from marine organisms, with particular interest in seaweed biotechnology, marine microbial resources, environmental toxicology, and sustainable blue biotechnology.
-
-I am interested in understanding the ecological and biochemical potential of marine organisms and exploring their applications in pharmaceuticals, aquaculture, environmental monitoring, and biotechnology.
-
----
+I am a Junior Research Fellow (CSIR-JRF) and PhD Scholar at the Academy of Scientific and Innovative Research (AcSIR), conducting research at CSIR–Central Salt & Marine Chemicals Research Institute (CSMCRI), India. My research focuses on marine natural products and bioactive compounds derived from marine organisms, with particular interest in seaweed biotechnology, marine microbial resources, environmental toxicology, and sustainable blue biotechnology.
 
 ## Research Areas
 
