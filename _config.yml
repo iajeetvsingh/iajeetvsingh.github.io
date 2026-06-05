@@ -19,20 +19,6 @@ url : "https://iajeetvsingh.github.io"
 baseurl : ""
 repository : "iajeetvsingh/iajeetvsingh.github.io"
 
-Author Information
-
-author:
-avatar : "profile.jpg"
-
-name : "Ajit Kumar"
-
-bio : "PhD Scholar at AcSIR-CSMCRI | CSIR-JRF AIR 187 | Marine Natural Products | Seaweed Biotechnology | Marine Biology"
-
-location : "India"
-
-employer : "Academy of Scientific and Innovative Research (AcSIR) & CSIR-Central Salt and Marine Chemicals Research Institute (CSMCRI)"
-
-email : "iajeetvsingh01@gmail.com"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
