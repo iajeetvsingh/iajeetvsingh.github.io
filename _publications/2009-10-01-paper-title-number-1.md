@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "A review of marine algae as a sustainable source of antiviral and anticancer compounds"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://doi.org/10.3390/macromol5010011
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2025-03-05
+venue: 'Macromole, MDPI'
+citation: 'Kumar, A., Soratur, A., Kumar, S., & Venmathi Maran, B. A. (2025). A Review of Marine Algae as a Sustainable Source of Antiviral and Anticancer Compounds. Macromol, 5(1), 11. https://doi.org/10.3390/macromol5010011'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
