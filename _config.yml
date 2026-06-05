@@ -25,17 +25,17 @@ repository : "iajeetvsingh/iajeetvsingh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar           : "PROFILE PNG.png"
-  name             : "Ajit Kumar"
-  bio              : "PhD Scholar at AcSIR-CSMCRI | CSIR-JRF AIR 187 | Marine Natural Products"
+  name             : "AJIT KUMAR"
+  bio              : "Juniour Research Fellow & PhD Research Scholar at AcSIR, CSIR-CSMCRI"
   location         : "India"
-  employer         : "CSIR-CSMCRI"
+  employer         : "AcSIR & CSIR-CSMCRI"
   email            : "iajeetvsingh01@gmail.com"
 
   googlescholar    :
-  orcid            :
+  orcid            : "https://orcid.org/0009-0006-6131-3686"
   researchgate     :
   github           : "iajeetvsingh"
-  linkedin         :
+  linkedin         : "iajeetvsingh"
 
   # Academic websites
   academia         : # URL
